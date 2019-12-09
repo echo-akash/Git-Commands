@@ -2,10 +2,10 @@
 
 ## Getting and Cleaning Projects
 <table>
-<th>
-<td>Command</td>
-<td>Description</td>
-</th>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
 <tr>
 <td>
     git init
