@@ -1,13 +1,13 @@
-#Git Commands
+# Git Commands
 
-##Getting and Cleaning Projects
+## Getting and Cleaning Projects
 <table>
 <th>
 <td>Command</td>
 <td>Description</td>
 </th>
 <tr>
-<td>'git init'</td>
+<td>'''git init'''</td>
 <td>Initialize a local Git Repository</td>
 </tr>
 <tr>
