@@ -46,7 +46,7 @@
 </table>
 
 
-## Basic Snapshotting
+## Branching and Merging
 <table>
 <tr>
 <th>Command</th>
@@ -111,5 +111,46 @@
 <tr>
   <td><code>git stash clear</code></td>
 <td>Remove all stashed entries</td>
+</tr>
+</table>
+
+
+## Sharing and Updating Project
+<table>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+<tr>
+  <td><code>git push origin [branch name]</code></td>
+<td>Push a branch to remote repository</td>
+</tr>
+<tr>
+  <td><code>git push -u origin [branch name]</code></td>
+<td>Push changes to remote repository (and remember the branch)</td>
+</tr>
+<tr>
+  <td><code>git push</code></td>
+<td>Push changes to remote repository (remembered branch)</td>
+</tr>
+<tr>
+  <td><code>git push origin --delete [branch name]</code></td>
+<td>Delete a remote branch</td>
+</tr>
+<tr>
+  <td><code>git pull</code></td>
+<td>Update local repository to the newest commit</td>
+</tr>
+<tr>
+  <td><code>git pull origin [branch name]</code></td>
+<td>Pull changes from remote repository</td>
+</tr>
+<tr>
+  <td><code>git remote add origin ssh://git@github.com/[username]/[repository-name].git</code></td>
+<td>Add a remote repository</td>
+</tr>
+<tr>
+  <td><code>git remote set-url origin ssh://git@github.com/[username]/[repository-name].git</code></td>
+<td>Set a repository's origin branch to SSH</td>
 </tr>
 </table>
