@@ -154,3 +154,28 @@
 <td>Set a repository's origin branch to SSH</td>
 </tr>
 </table>
+
+
+## Inspection and Comparison
+<table>
+<tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+<tr>
+  <td><code>git log</code></td>
+<td>View changes</td>
+</tr>
+<tr>
+  <td><code>git log --summary</code></td>
+<td>View changes (detailed)</td>
+</tr>
+<tr>
+  <td><code>git log --oneline</code></td>
+<td>View changes (briefly)</td>
+</tr>
+<tr>
+  <td><code>git diff [source branch] [target branch] 	</code></td>
+<td>Preview changes before merging</td>
+</tr>
+</table>
