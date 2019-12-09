@@ -7,7 +7,7 @@
 <th>Description</th>
 </tr>
 <tr>
-<td>```git init```</td>
+`<td>git init</td>`
 <td>Initialize a local Git Repository</td>
 </tr>
 <tr>
