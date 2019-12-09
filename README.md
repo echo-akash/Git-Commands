@@ -2,10 +2,10 @@
 
 ## Getting and Cleaning Projects
 <table>
-<th>
+<tr>
 <td>Command</td>
 <td>Description</td>
-</th>
+</tr>
 <tr>
 <td>'''git init'''</td>
 <td>Initialize a local Git Repository</td>
